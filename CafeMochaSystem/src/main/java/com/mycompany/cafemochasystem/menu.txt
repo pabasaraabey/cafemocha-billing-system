@@ -1,0 +1,3 @@
+sandwiche,a dish typically consisting variously of meat, cheese, sauces, and vegetables used as a filling between slices of bread.,200.0,short eaters
+milo,a chocolate malt drink made from milk, cocoa, and malt.,100.0,drink
+Hot coffee,a steaming beverage made by brewing ground coffee beans with hot water.,120.0,drinks
